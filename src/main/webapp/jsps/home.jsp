@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
+<h1>Welcome to Tesla Web application Project.</h1>
+<h1>We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires and billionaires in IT automation.
 	We offer Training for DevOps with Linux, Kubernetes, and Cloud equipping IT Engineers for best performance.
 	Class34 will start on Oct 14, 2023. </h1>
